@@ -5,7 +5,7 @@
 //  Replit: @PHNO, @PHREPLIT
 //  E-mail: phreplit@gmail.com
 
-// Algoritmo: Média Aritmética Simples para Calcular a Média de aprovação em Matéria Especifica, algoritmo desenvolvido em c, desenvolvido para professores e estudantes de exatas e areas correlatas, como matemática.
+// Algoritmo: Média Aritmética Simples para Calcular a Média de Aprovação em Matéria Especifica, algoritmo desenvolvido em c, desenvolvido para professores e estudantes de exatas e areas correlatas, como matemática.
 
 // Obs: Algoritmo desenvolvido com variaveis inteiras, nao permite numero e virgula - ex: 7,80 mude para 8.
 
@@ -17,7 +17,7 @@
 int main(void) {
 
   printf("\n");
-  printf("Média Aritmética Simples para Calcular a Média de aprovação\n");
+  printf("Média Aritmética Simples para Calcular a Média de Aprovação\n");
   printf("\n");
   
   typedef int teste;
